@@ -19,65 +19,6 @@ Greetings! My name is Pavan, and I'm excited to share my still developing data e
 </div>
 
 
-**Data Analysis & Visualization Tools/Libraries:**  
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-FFA07A?style=flat-square&logoColor=white)
-![Seaborn](https://img.shields.io/badge/-Seaborn-77ACF1?style=flat-square&logoColor=white)
-![PowerBI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=Power-BI&logoColor=black)
-![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=Tableau&logoColor=white)  
-</div>
-
-<!-- #### <div align="center">Database Management (Important for Data Analysts and essential for Data Scientists for data warehousing):</div> -->
-
-<div align="center">
-
-**Database Management:**  
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![Oracle](https://img.shields.io/badge/-Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white)  
-</div>
-
-<!-- #### <div align="center">Machine Learning & Advanced Data Science (Crucial for Data Scientists and ML Engineers):</div> -->
-
-<!--<div align="center">
-
-**Machine Learning Libraries & Frameworks:**   
-![Scikit-Learn](https://img.shields.io/badge/-Scikit%20Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white)  
-</div> -->
-
-<!--<div align="center">
-
-**Cloud Services:**
-![Azure](https://img.shields.io/badge/-Microsoft%20Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white)  
-</div> -->
-
-<div align="center">
-  
-**Development Tools & Environments:**  
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-</div>
-
-<div align="center">
-  
-**Version Control & Collaboration Tools:**  
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Bitbucket](https://img.shields.io/badge/-Bitbucket-0052CC?style=flat-square&logo=bitbucket&logoColor=white)  
-</div>
-
-<div align="center">
-  
-**Office Utilities:**  
-![Excel](https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
-![PowerPoint](https://img.shields.io/badge/-PowerPoint-B7472A?style=flat-square&logo=microsoft-powerpoint&logoColor=white)  
-</div>
-
-<div align="center">
-Let's explore the vast ocean of data together and uncover its secrets!
-</div>
-
 This is a complete portfolio of the projects I have designed with a major focus on implementing various data engineering tech and cloud services across Azure.
 
 
